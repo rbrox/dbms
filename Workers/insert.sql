@@ -5,7 +5,22 @@ VALUES
     (2, 'Jane', 'Smith', 60000.00, '2023-02-20', 'IT'),
     (3, 'Alice', 'Johnson', 55000.00, '2023-03-25', 'Sales'),
     (4, 'Michael', 'Brown', 52000.00, '2023-04-10', 'HR'),
-    (5, 'Emily', 'Davis', 58000.00, '2023-05-05', 'IT');
+    (5, 'Emily', 'Davis', 58000.00, '2023-05-05', 'IT'),
+    (6, 'Jack', 'Smith', 60000.00, '2023-02-20', 'IT'),
+    (7, 'Johnathan', 'Johnson', 55000.00, '2023-03-25', 'Sales'),
+    (8, 'Michael', 'Brown', 52000.00, '2023-04-10', 'HR'),
+    (9, 'Emily Beth', 'Davis', 58000.00, '2023-05-05', 'IT'),
+    (10, 'Johnny', 'Doe', 50000.00, '2023-01-15', 'HR'),
+    (11, 'Amy', 'Smith', 60000.00, '2023-02-20', 'IT'),
+    (12, 'Aditi', 'Smith', 60000.00, '2023-02-20', 'IT'),
+    (13, 'Bhargav', 'Johnson', 55000.00, '2023-03-25', 'Sales'),
+    (14, 'Puneni', 'Brown', 52000.00, '2023-04-10', 'HR'),
+    (15, 'Neni', 'Davis', 58000.00, '2023-05-05', 'IT'),
+    (16, 'Vivek', 'Smith', 60000.00, '2023-02-20', 'IT'),
+    (17, 'Mehh', 'Johnson', 55000.00, '2023-03-25', 'Sales'),
+    (18, 'Michael', 'Brown', 52000.00, '2023-04-10', 'HR'),
+    (19, 'Sarah', 'Davis', 58900.00, '2023-05-05', 'IT');
+
 
 -- Insert data into the BONUS table
 INSERT INTO BONUS (WORKER_ID, BONUS_DATE, BONUS_AMOUNT)
